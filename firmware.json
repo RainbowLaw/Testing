@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "url": "http://your-web-server/path/to/firmware.bin",
-  "size": 123456 // Size of the firmware binary in bytes
+  "url": "https://raw.githubusercontent.com/RainbowLaw/Testing/main/firmware.bin",
+  "size": 295344
 }
